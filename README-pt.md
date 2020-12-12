@@ -1,3 +1,5 @@
+<img src="./assets/cover.jpg" alt="Capa da aplicação"/>
+
 # 🚀 Desafio GoStack: GoFinances Web
 Este é um desafio do bootcamp GoStack, da Rocketseat. Trata-se de uma aplicação de gestão de transações, a GoFinances. A aplicação se conecta ao backend do desafio anterior (Database Upload), exibindo as transações criadas e permitindo a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
